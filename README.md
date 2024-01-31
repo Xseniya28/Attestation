@@ -42,7 +42,7 @@
   ```json
   {
     "title": "Issue 2"
-}
+  }
 ### Удаление Issue 2 (задача будет заблокирована) 
 - **Метод:** PUT
 - **URL:** ` https://api.github.com/repos/OWNER/REPO/issues/ISSUE_NUMBER/lock`
